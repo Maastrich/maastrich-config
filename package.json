@@ -5,6 +5,7 @@
   "source": "src/config.ts",
   "main": "dist/config.cjs.js",
   "module": "dist/config.esm.js",
+  "types": "dist/config.d.ts",
   "repository": "https://github.com/Maastrich/maastrich-config.git",
   "author": "Maastrich <pinsaultm@gmail.com>",
   "license": "MIT",
