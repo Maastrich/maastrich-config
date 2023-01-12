@@ -11,10 +11,12 @@ export default defineConfig({
     {
       file: "dist/config.cjs.js",
       format: "cjs",
+      sourcemap: true,
     },
     {
       file: "dist/config.esm.js",
       format: "esm",
+      sourcemap: true,
     },
   ],
   plugins: [
