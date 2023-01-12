@@ -1,6 +1,6 @@
 {
   "name": "@maastrich/config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library to persist your cli configs locally",
   "source": "src/config.ts",
   "main": "dist/config.cjs.js",
